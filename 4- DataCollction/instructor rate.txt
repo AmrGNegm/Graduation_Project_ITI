@@ -1,0 +1,5 @@
+5 - Very Satisfied
+4 - Satisfied
+3 - Fair
+2 - Dissatisfied
+1 - Very Dissatisfied
